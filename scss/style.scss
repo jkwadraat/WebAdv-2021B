@@ -1,0 +1,9 @@
+// override Bootstrap variables (before importing Bootstrap!!!)
+@import "variables";
+
+// import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+//custom code/partials
+// question 2
+@import "question2";
